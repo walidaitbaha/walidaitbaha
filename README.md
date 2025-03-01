@@ -4,6 +4,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=walidaitbaha&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidaitbaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade)
+
 **walidaitbaha/walidaitbaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
