@@ -2,8 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aitbahawalid) 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walidaitbaha&theme=tokyo-night)
-![GitHub Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=walidaitbaha&theme=radical&hide_border=true)
-
+![Technologies](https://tech-stack-readme.vercel.app/api?username=walidaitbaha&theme=light&hide_border=true)
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=walidaitbaha&theme=dark&hide_border=true)
 
