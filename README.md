@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aitbahawalid) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=walidaitbaha)](https://github.com/ryo-ma/github-profile-trophy)
-
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={walidaitbaha}&theme={theme_name}
 <!--
 **walidaitbaha/walidaitbaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
