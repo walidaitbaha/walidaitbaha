@@ -2,7 +2,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aitbahawalid) 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walidaitbaha&theme=tokyo-night)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidaitbaha&theme=highcontrast&hide_border=true&langs_count=8)
+![GitHub Profile Overview](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=walidaitbaha&theme=tokyonight)
+
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=walidaitbaha&theme=dark&hide_border=true)
 
