@@ -1,8 +1,8 @@
 ### full stack developer
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aitbahawalid) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=walidaitbaha&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidaitbaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=css,html,Blade)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=walidaitbaha&theme=tokyo-night)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=walidaitbaha&theme=tokyonight&no-frame=true&no-bg=true)
 
 <!--
