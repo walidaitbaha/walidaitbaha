@@ -5,7 +5,6 @@
 
 ![License](https://img.shields.io/github/license/walidaitbaha/repository-name)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=walidaitbaha&theme=dark&hide_border=true)
 
 
 <!--
